@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="second_activity">Multiple Choice</string>
+    <string name="third_activity">Fill in the Blank</string>
+    <string name="fourth_activity">Solve the Grid</string>
+    <string name="play_btn_description">Play Button</string>
+    <string name="signup_btn">Sign up</string>
+    <string name="signin_btn">Sign in</string>
+    <string name="guest_btn">Continue as Guest</string>
+    <string name="user_input">Enter Username</string>
+    <string name="pw_input">Enter Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="signup_as_new_btn">Sign up as New User</string>
+    <string name="incorrect_pw">Your password is incorrect. Please try again.</string>
+    <string name="input_needed">Please enter username and password.</string>
+    <string name="back_to_signin">Sign-up successful. Return to sign-in</string>
+    <string name="choose_another">User already exists. Please choose another username to sign up</string>
+    <string name="intro_1_text">"Welcome to 4MATH! \n\nThis app has 3 educational games that you can play to make you better at math! \n\nIf you are a 4MATH veteran, you can press the 'Skip' button below. Otherwise, press 'Next' to continue to more instructions!</string>
+    <string name="intro_2_text">"Multiple Choice is a super fun math activity that shows you a math problem and gives you 4 options to pick from to select the correct answer. \n\nClick 'Next' to continue, or click 'Skip' to skip to the login page!"</string>
+    <string name="intro_3_text">"Fill in the Blank shows you a math problem but instead you fill in the blank with your answer! Super fun!\n\nClick 'Next' to continue, or click 'Skip' to skip to the login page!"</string>
+    <string name="intro_4_text">"Solve the Grid displays a fun matching game where you match the math expression with the answer! Once you create a match, the tiles will disappear like magic! \n\nClick 'Next' to continue, or click 'Skip' to skip to the login page!"</string>
+    <string name="intro_5_text">"Each game has its own difficulty! You can do Easy Mode to get the hang of things, Medium Mode to test yourself, and Master Mode to show you've mastered the art of math!"</string>
+    <string name="difficulty">"Select The Difficulty"</string>
+    <string name="games">"Select A Fun Math Activity"</string>
+
+</resources>

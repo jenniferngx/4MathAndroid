@@ -1,0 +1,38 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:layout_gravity="center_vertical"
+    android:orientation="vertical"
+    android:background="@drawable/waterfall1"
+    >
+
+    <GridLayout
+        android:id="@+id/grid_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alignmentMode="alignMargins"
+        android:columnCount="4"
+        android:padding="16dp"
+
+        android:rowCount="4"></GridLayout>
+    <TextView
+        android:id="@+id/game_lost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Maximum Number of Errrors Reached."
+        android:visibility="gone"
+        />
+    <Button
+        android:id="@+id/try_again"
+        android:text="Try Again"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <Button
+        android:id="@+id/back_to_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back to All Activities"
+        android:visibility="gone"/>
+</LinearLayout>
